@@ -1,2 +1,2 @@
-# Viajes_Conrado.io
+# ViajesConrado.github.io
 Esto es una pagina web de viajes
